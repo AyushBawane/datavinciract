@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import SideBar from '../components/SideBar'
+import SideBar from '../utils/SideBar'
 import { Scrollbars } from 'react-custom-scrollbars';
-import SideBarCollapsed from '../components/SideBarCollapsed';
+import SideBarCollapsed from '../utils/SideBarCollapsed';
 import { useSelector } from 'react-redux';
-import SideBarMobile from '../components/sidebarMobile';
+import SideBarMobile from '../utils/sidebarMobile';
 import './layout.css'
 
 const Layout = ({ children }) => {

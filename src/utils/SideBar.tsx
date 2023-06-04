@@ -1,6 +1,6 @@
 import { ImTable2 } from 'react-icons/im';
 import { LuLayoutDashboard } from 'react-icons/lu';
-import ListItem from '../utils/ListItem';
+import ListItem from './ListItem';
 import '../index.css'
 
 const SideBar = () => {
