@@ -2,6 +2,11 @@
 
 This is sample project created for assignment purpose and contains mock data in the visualisations and tables.
 
+## demo 
+
+see live app on 
+[https://datavinciapp.onrender.com](https://datavinciapp.onrender.com/)
+
 ## Prerequirements for installations
 
 You need following things installed and runnnig on you pc.
